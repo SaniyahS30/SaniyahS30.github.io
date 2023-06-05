@@ -4,3 +4,7 @@ h1{
 p{
     color: lime;
 }
+img{
+    height:100px;
+    width:100px;
+}
